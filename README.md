@@ -1,2 +1,4 @@
-# udacity-nano-data-streaming
-Nano degree in data streaming
+# Udacity Nano Dregree - Data Streaming
+
+_Assignments:_
+- Prject 1: Optmizing Public Transportation

@@ -1,0 +1,14 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+confluent-kafka = {extras = ["avro"], version = "==1.1.0"}
+faust = "==1.7.4"
+tornado = "==6.0.3"
+
+[requires]
+python_version = "3.8"
